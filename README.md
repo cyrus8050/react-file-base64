@@ -1,0 +1,1 @@
+# react-file-base64
